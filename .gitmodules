@@ -1,0 +1,6 @@
+[submodule "password-strength"]
+	path = password-strength
+	url = https://github.com/alanmachadozx/password-strength.git
+[submodule "file-encryptor"]
+	path = file-encryptor
+	url = https://github.com/alanmachadozx/file-encryptor.git
