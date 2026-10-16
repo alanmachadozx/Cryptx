@@ -1,0 +1,17 @@
+# Generated build artifacts and cache folders
+/build/
+.cache/
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+*.bin
+*.log
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
